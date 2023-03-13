@@ -1,1 +1,1 @@
-Portugol é uma pseudolinguagem.
+Portugol é uma pseudo linguagem.
